@@ -1,0 +1,20 @@
+{
+    "name": "My Token Test1",
+    "symbol": "MTT1",
+    "description": "Description of my token",
+    "image": "https://raw.githubusercontent.com/shanu516516/App-metadata/refs/heads/main/images/logo_sol_9w1CnAMEDPooJnaotBEBBEM2UgpjhpMNf1v5GrXGoneT.png",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Currency"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/shanu516516/App-metadata/refs/heads/main/images/logo_sol_9w1CnAMEDPooJnaotBEBBEM2UgpjhpMNf1v5GrXGoneT.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
